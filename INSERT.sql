@@ -10,7 +10,7 @@ INSERT INTO school(school_name)  VALUES ('서강대학교');
 INSERT INTO school(school_name)  VALUES ('연세대학교');
 
 #answer TABLE
-INSERT INTO answer(question_content , question_date , subject_id ,user_id )  VALUES ('안녕','2023-07-31',1);
+INSERT INTO answer(question_content , question_date , subject_id ,user_id )  VALUES ('안녕','2023-07-31',1,1);
 
 #answer TABLE
 INSERT INTO answer(question_id, answer_date, answer_content )  VALUES (1,'2023-07-31','안녕하세요, 무엇을 도와드릴까요');
